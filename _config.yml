@@ -1,4 +1,3 @@
-layout_spectrum: 0.6210765629075468
 typography_spectrum: 0.794134552590549
 color:
   brandStrength: 0.30623560887761414
@@ -6,9 +5,11 @@ color:
   saturation: 0.34242328396067023
   rhythmicContrast: 0.020704285707324743
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.6210765629075468
 name: Peter on the Planet
+title: Think
